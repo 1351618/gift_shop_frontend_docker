@@ -1,0 +1,43 @@
+@import "../../general_styles/variables.scss";
+
+.header {
+  background-color: #f4f0e5;
+  padding: 10px;
+  height: 150px;
+  // position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-1 {
+  height: 100%;
+  img {
+    height: 100%;
+    width: auto;
+  }
+}
+
+.header__logo-menu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  img {
+    height: 100%;
+    width: auto;
+  }
+}
+
+.header__mini-consol {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.pos-btn-them {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}

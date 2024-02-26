@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "giftBaskets": "gift baskets",
+    "candles": "candles",
+    "3dSouvenirs": "3D souvenirs",
+    "picturesByNumbers": "pictures by numbers",
+    "miniPlants": "mini plants"
+  },
+  "homePage": {
+    "cardsAdvertising": "section with advertising cards",
+    "filtProductCards": "section with filters for product cards"
+  },
+  "filtration": {
+    "giftFriend": "gift for friend",
+    "birthdayGiftWoman": "birthday gift for woman",
+    "giftNewYear": "gift for new year",
+    "giftGirl": "gift for girl",
+    "giftMan": "gift for a man",
+    "giftSet": "gift set",
+    "NewYearGiftsChildren": "New Year gifts for children",
+    "giftMom": "gift for mom"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "home": "Главная",
+    "about": "О нас",
+    "giftBaskets": "подарочные наборы",
+    "candles": "свечи",
+    "souvenirs3d": "3D сувениры",
+    "picturesByNumbers": "картинки по номерам",
+    "miniPlants": "мини растения"
+  },
+  "homePage": {
+    "cardsAdvertising": "секция с карточками рекламы",
+    "filtProductCards": "секция с фильтрами для карточек продуктов"
+  },
+  "filtration": {
+    "giftFriend": "подарок подруге",
+    "birthdayGiftWoman": "подарок женщине на день рождения",
+    "giftNewYear": "подарок на новый год",
+    "giftGirl": "подарок девушке",
+    "giftMan": "подарок мужчине",
+    "giftSet": "подарочный набор",
+    "NewYearGiftsChildren": "подарки на новый год детям",
+    "giftMom": "подарок маме"
+  }
+}
